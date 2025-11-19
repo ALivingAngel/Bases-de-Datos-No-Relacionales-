@@ -1,0 +1,30 @@
+C:\Users\ANGELGABRIELGARCIAVA\OneDrive - UNAN-Managua\Escritorio\Universidad\Ixza\Ixza\WebApi - copia\WebApiDatas\bin\Release\net8.0\WebApiDatas.deps.json
+C:\Users\ANGELGABRIELGARCIAVA\OneDrive - UNAN-Managua\Escritorio\Universidad\Ixza\Ixza\WebApi - copia\WebApiDatas\bin\Release\net8.0\WebApiDatas.dll
+C:\Users\ANGELGABRIELGARCIAVA\OneDrive - UNAN-Managua\Escritorio\Universidad\Ixza\Ixza\WebApi - copia\WebApiDatas\bin\Release\net8.0\WebApiDatas.pdb
+C:\Users\ANGELGABRIELGARCIAVA\OneDrive - UNAN-Managua\Escritorio\Universidad\Ixza\Ixza\WebApi - copia\WebApiDatas\bin\Release\net8.0\WebModel.dll
+C:\Users\ANGELGABRIELGARCIAVA\OneDrive - UNAN-Managua\Escritorio\Universidad\Ixza\Ixza\WebApi - copia\WebApiDatas\bin\Release\net8.0\WebModel.pdb
+C:\Users\ANGELGABRIELGARCIAVA\OneDrive - UNAN-Managua\Escritorio\Universidad\Ixza\Ixza\WebApi - copia\WebApiDatas\obj\Release\net8.0\WebApiDatas.csproj.AssemblyReference.cache
+C:\Users\ANGELGABRIELGARCIAVA\OneDrive - UNAN-Managua\Escritorio\Universidad\Ixza\Ixza\WebApi - copia\WebApiDatas\obj\Release\net8.0\WebApiDatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGELGABRIELGARCIAVA\OneDrive - UNAN-Managua\Escritorio\Universidad\Ixza\Ixza\WebApi - copia\WebApiDatas\obj\Release\net8.0\WebApiDatas.AssemblyInfoInputs.cache
+C:\Users\ANGELGABRIELGARCIAVA\OneDrive - UNAN-Managua\Escritorio\Universidad\Ixza\Ixza\WebApi - copia\WebApiDatas\obj\Release\net8.0\WebApiDatas.AssemblyInfo.cs
+C:\Users\ANGELGABRIELGARCIAVA\OneDrive - UNAN-Managua\Escritorio\Universidad\Ixza\Ixza\WebApi - copia\WebApiDatas\obj\Release\net8.0\WebApiDatas.csproj.CoreCompileInputs.cache
+C:\Users\ANGELGABRIELGARCIAVA\OneDrive - UNAN-Managua\Escritorio\Universidad\Ixza\Ixza\WebApi - copia\WebApiDatas\obj\Release\net8.0\WebApiDa.06FEAF5D.Up2Date
+C:\Users\ANGELGABRIELGARCIAVA\OneDrive - UNAN-Managua\Escritorio\Universidad\Ixza\Ixza\WebApi - copia\WebApiDatas\obj\Release\net8.0\WebApiDatas.dll
+C:\Users\ANGELGABRIELGARCIAVA\OneDrive - UNAN-Managua\Escritorio\Universidad\Ixza\Ixza\WebApi - copia\WebApiDatas\obj\Release\net8.0\refint\WebApiDatas.dll
+C:\Users\ANGELGABRIELGARCIAVA\OneDrive - UNAN-Managua\Escritorio\Universidad\Ixza\Ixza\WebApi - copia\WebApiDatas\obj\Release\net8.0\WebApiDatas.pdb
+C:\Users\ANGELGABRIELGARCIAVA\OneDrive - UNAN-Managua\Escritorio\Universidad\Ixza\Ixza\WebApi - copia\WebApiDatas\obj\Release\net8.0\ref\WebApiDatas.dll
+C:\Users\dark0\OneDrive\Desktop\Universidad\WebApi - copia\WebApiDatas\bin\Release\net8.0\WebApiDatas.deps.json
+C:\Users\dark0\OneDrive\Desktop\Universidad\WebApi - copia\WebApiDatas\bin\Release\net8.0\WebApiDatas.dll
+C:\Users\dark0\OneDrive\Desktop\Universidad\WebApi - copia\WebApiDatas\bin\Release\net8.0\WebApiDatas.pdb
+C:\Users\dark0\OneDrive\Desktop\Universidad\WebApi - copia\WebApiDatas\bin\Release\net8.0\WebModel.dll
+C:\Users\dark0\OneDrive\Desktop\Universidad\WebApi - copia\WebApiDatas\bin\Release\net8.0\WebModel.pdb
+C:\Users\dark0\OneDrive\Desktop\Universidad\WebApi - copia\WebApiDatas\obj\Release\net8.0\WebApiDatas.csproj.AssemblyReference.cache
+C:\Users\dark0\OneDrive\Desktop\Universidad\WebApi - copia\WebApiDatas\obj\Release\net8.0\WebApiDatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dark0\OneDrive\Desktop\Universidad\WebApi - copia\WebApiDatas\obj\Release\net8.0\WebApiDatas.AssemblyInfoInputs.cache
+C:\Users\dark0\OneDrive\Desktop\Universidad\WebApi - copia\WebApiDatas\obj\Release\net8.0\WebApiDatas.AssemblyInfo.cs
+C:\Users\dark0\OneDrive\Desktop\Universidad\WebApi - copia\WebApiDatas\obj\Release\net8.0\WebApiDatas.csproj.CoreCompileInputs.cache
+C:\Users\dark0\OneDrive\Desktop\Universidad\WebApi - copia\WebApiDatas\obj\Release\net8.0\WebApiDa.06FEAF5D.Up2Date
+C:\Users\dark0\OneDrive\Desktop\Universidad\WebApi - copia\WebApiDatas\obj\Release\net8.0\WebApiDatas.dll
+C:\Users\dark0\OneDrive\Desktop\Universidad\WebApi - copia\WebApiDatas\obj\Release\net8.0\refint\WebApiDatas.dll
+C:\Users\dark0\OneDrive\Desktop\Universidad\WebApi - copia\WebApiDatas\obj\Release\net8.0\WebApiDatas.pdb
+C:\Users\dark0\OneDrive\Desktop\Universidad\WebApi - copia\WebApiDatas\obj\Release\net8.0\ref\WebApiDatas.dll
